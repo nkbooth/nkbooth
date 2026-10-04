@@ -18,7 +18,7 @@ GitHub holds infrastructure, forks I contribute to, and a few things that need A
 | [framework](https://github.com/nkbooth/framework) | My laptop's OS: an atomic Fedora image with a Hyprland desktop, built and signed in CI. |
 | [osgiliath](https://github.com/nkbooth/osgiliath) | Fedora CoreOS–based server image for an always-on VPS. |
 | [bmad-method](https://github.com/nkbooth/bmad-method) | Fork of an AI-assisted development method, wired into Taskwarrior and 1Password. |
-| [meshtastic-hrv-releases](https://github.com/nkbooth/meshtastic-hrv-releases) | Release builds of Ham Radio Village's custom Meshtastic firmware for DEFCON 34. |
+| [meshtastic-hrv-releases](https://github.com/nkbooth/meshtastic-hrv-releases) | Release builds of Ham Radio Village's custom Meshtastic firmware. |
 
 ## Tools I reach for
 
