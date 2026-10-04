@@ -11,7 +11,7 @@ GitHub holds infrastructure, forks I contribute to, and a few things that need A
 
 | Project | What it is |
 |---|---|
-| [hamlive-oss](https://github.com/nkbooth/hamlive-oss) | Self-hostable web app for running amateur radio nets. My fork adds a container deploy pipeline, release-please versioning, SMTP and Plausible support, and a redesigned dashboard and theme. |
+| [NetRoll](https://github.com/nkbooth/netroll) | Rust web app for running amateur radio nets, with live shared rosters and a public directory of nets on the air now — running at [netroll.n1cck.radio](https://netroll.n1cck.radio). |
 | [catter](https://codeberg.org/alatartheblue/catter) | Opinionated file viewer that routes each file to the right CLI tool by type. |
 | [ULSUpdater](https://codeberg.org/alatartheblue/ULSUpdater) | Parses the FCC's public license dumps into a standards-compliant database. |
 | [N1CCKCallsignToolkit](https://codeberg.org/alatartheblue/N1CCKCallsignToolkit) | C# library for working with amateur radio callsigns. |
